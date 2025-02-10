@@ -1,0 +1,1 @@
+ C:\\Users\\lucasf\\AndroidStudioProjects\\book-suggester\\book_suggester\\.dart_tool\\flutter_build\\e80b5cce570f03eb06f04c3d2518a4e3\\native_assets.yaml: 
